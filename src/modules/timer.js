@@ -1,6 +1,4 @@
 const timer = () => {
-  console.log(123);
-
   document.addEventListener("DOMContentLoaded", function () {
     // Получаем все элементы с классом "countdown"
     const countdownBlocks = document.querySelectorAll(".countdown");
